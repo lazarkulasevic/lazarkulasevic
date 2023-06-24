@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lazar Kulasevic
-- 👀 I’m interested in software development
+- 💻 Software Developer specialized in front-end technologies
 - 📫 Reach me on Linkedin or Twitter
 
-And check out my site -> https://lazarkulasevic.github.io
+And check out my site and blog -> https://lazarkulasevic.github.io
