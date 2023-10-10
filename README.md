@@ -1,5 +1,5 @@
 - 👋 Hi there!
-- 💻 Software Engineer specialized in front-end technologies
-- 📫 Reach me on Linkedin or Twitter
+- 💻 Software Engineer specializing in front-end technologies
+- 📫 Reach out on Linkedin
 
 And check out my site and blog -> https://lazarkulasevic.github.io
